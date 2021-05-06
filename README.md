@@ -1,2 +1,6 @@
 # Discord-dbd.js-bot
-Un bot de dbd.js
+
+Hola!
+Bienvenido a la guia de como configurar el bot para que comienze a funcionar!
+
+
