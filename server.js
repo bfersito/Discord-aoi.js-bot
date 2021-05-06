@@ -7,7 +7,7 @@ prefix: "$getServerVar[prefix]"
 })
 
 bot.status({
-  text: "",
+  text: "https://github.com/bfernigrini/Discord-dbd.js-bot",
   type: "PLAYING",
   time: 12
 })
@@ -16,7 +16,7 @@ bot.onMessage()
 
  // Variable
 bot.variables({
- prefix: "ib!",
+ prefix: "TU-PREFIX",
  warn: "0"
 })
 
