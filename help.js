@@ -10,9 +10,6 @@ module.exports = {
 
 \`$getServerVar[prefix]kick\` - Expulsa a alguien del server
 \`$getServerVar[prefix]ban\` - Banea a alguien del server
-\`$getServerVar[prefix]warn\` - Advierte a un usuario
-\`$getServerVar[prefix]checkwarn\` - Ve la cantidad de advertencias de un usuario
-\`$getServerVar[prefix]removewarn\` - Elimina una advertencia de un usuario
 \`$getServerVar[prefix]poll\` - Crea una encuesta
 \`$getServerVar[prefix]clear\` - Elimina una cantidad de mensajes
 \`$getServerVar[prefix]setprefix\` - Establece un prefix para el bot
