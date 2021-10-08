@@ -12,6 +12,6 @@ Bienvenido a la guia de como configurar el bot para que comienze a funcionar!
 - Listo! Tu bot ya esta listo para funcionar
 
 # Redes de ayuda
-- GitHub (https://github.com/bfernigrini/Discord-dbd.js-bot)
+- GitHub (https://github.com/bfernigrini/Discord-aoi.js-bot)
 - Discord (вfег ت#7705)
 - Server (https://discord/gg/nW8mUHVyeT)
