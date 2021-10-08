@@ -1,13 +1,13 @@
-var dbd = require("dbd.js")
+var aoi = require("aoi.js")
 var fs = require("fs")
 
-const bot = new dbd.Bot({
+const bot = new aoi.Bot({
 token: "TU-TOKEN",
 prefix: "$getServerVar[prefix]"
 })
 
 bot.status({
-  text: "https://github.com/bfernigrini/Discord-dbd.js-bot",
+  text: "https://github.com/bfernigrini/Discord-aoi.js-bot",
   type: "PLAYING",
   time: 12
 })
